@@ -1,0 +1,23 @@
+{
+  "name": "turnos-preentrega1",
+  "version": "1.0.0",
+  "description": "Administrador de servicios para un sistema de turnos y reservas (Pre-entrega 1)",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "node",
+    "esm",
+    "services",
+    "turnos",
+    "reservas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
